@@ -12,7 +12,9 @@
 Eres un tirador especializado en su área de entrenamiento, la misión es acabar con los algunos objetivos sin dales a otros, 
 se generan objetivos aleatoriamente cuando le das un disparo a uno de los 3 botones que se presentan en el mapa, luego de acabar con todos los objetivos, puedes volver a darle a los botones si esque no te convenciste con tu reflejo veloz.
 
+**¿Cómo se desarrolló?**
 
+Haciendo uso del motor para desarrollar juegos, Unreal Engine 4, primero se creo un repositorio para que todos los integrantes del grupo puedan subir sus avances, se creo un proyecto, gracias a este motor se nos facilitó la creacion de los personajes, objetos y ambiente; asi mismo también se hizo posible darle movimiento a los personajes y acción a los objetos. Se descargaron y subieron distintos objetvos 3D para que el uso sea más facil, con el uso de los blueprints fue posible ponerle movimiento a nuestro jugador, asi también se pudo poner reacciones en caso de los botones, que generan objetivos, el arma que dispara; haciendo uso del collision detected se programó las acciones de los objetivos al momento en que una bala los impacta, este fue el modo en el que se desarrolló *ShooterBananas*.
 
 ## **Requerimientos**
 
