@@ -1,5 +1,4 @@
 # LP3-ShooterBananas
-======
 
 ![IMAGE](https://github.com/iMawe/LP3-ShooterBananas/blob/master/Imagenes/Unreal-FPS-feature.png?raw=true)
 
